@@ -1,0 +1,15 @@
+{
+  "name": "@kobaya/cluster",
+  "version": "0.1.0",
+  "description": "A wrapper for node cluster module which provides some new features",
+  "main": "lib/index.js",
+  "repository": "https://github.com/KobayaJS/cluster.git",
+  "author": "TimeBather <2387911242@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^17.0.31"
+  },
+  "files": [
+    "lib"
+  ]
+}

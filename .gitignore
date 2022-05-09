@@ -1,3 +1,5 @@
+# Development tool files
+.idea
 # Logs
 logs
 *.log
